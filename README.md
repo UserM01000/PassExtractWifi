@@ -2,7 +2,7 @@
 PassExtractWifi-Win es un proyecto de codigo </br>
 abierto echo para usuarios de Windows, escrito en</br>
 en C++ sin el uso de librerias externos o creadas</br>
-por uno mimsom
+por uno mismo
 
 Este proyecto esta echo con el fin de visualizar</br>
 las contraseñas almacenas en el pc, sobre las redes </br>
