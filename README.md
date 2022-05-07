@@ -1,6 +1,6 @@
-# PassExtractWifi-Win
-PassExtractWifi-Win es un proyecto de codigo </br>
-abierto echo para usuarios de Windows, escrito en</br>
+# PassExtractWifi
+PassExtractWifi es un proyecto de codigo </br>
+abierto echo para usuarios de Windows y Linux, escrito en</br>
 en C++ sin el uso de librerias externos o creadas</br>
 por uno mismo
 
@@ -21,7 +21,7 @@ pero es por la ejecucion de comandos, igual pueden </br>
 compilar ustedes mismo el .cpp y probar 
 
 # ¿Updates?
-Tal vez si 😁
+* `07/05/2022 = Ahora version disponible para Linux escrita en Bash`
 
 # Contact Dev
 Dudas?, Problemas?, Errores?</br>
